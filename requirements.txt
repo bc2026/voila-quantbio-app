@@ -2,4 +2,4 @@ voila
 numpy
 matplotlib
 ipywidgets
-
+scipy
